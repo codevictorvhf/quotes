@@ -7,7 +7,7 @@
 
 ## 🖥️ Projeto
 
-Projeto tela de login. Layout produzido para login de um site de um prédio/ condomínio. Layout responsivo, usando Flexbox e media query. 
+Projeto Citações. É um gerador de citações aleatórias. Teremos os dados mocados e quando clicamos no botão de citação, é buscado esses dados como se fosse num "banco de dados" e nos traz uma citação no front-end.
 
 ## 🚀 Tecnologias
 
@@ -15,4 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
+- JavaScript
 - Git e Github
